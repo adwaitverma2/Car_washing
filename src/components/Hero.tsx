@@ -8,6 +8,7 @@ const stats = [
   { value: "100%", label: "Eco-Friendly" },
 ];
 
+
 const badges = [
   { icon: Shield, text: "Premium Quality" },
   { icon: Clock, text: "Quick Service" },
