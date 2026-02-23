@@ -13,7 +13,7 @@ export default function Contact() {
         <div className="text-center mb-16">
           <div className="section-tag mx-auto w-fit">Get In Touch</div>
           <h2 className="font-display text-4xl md:text-5xl font-black mb-4" style={{ color: "hsl(var(--navy))" }}>
-            Contact Us
+            Contact Us 
           </h2>
           <p className="text-muted-foreground text-lg max-w-xl mx-auto">
             Have questions or need assistance? Reach out to us directly.
