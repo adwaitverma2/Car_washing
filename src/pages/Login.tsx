@@ -58,7 +58,7 @@ export default function Login() {
             Premium car washing services. Sign in to access exclusive subscription plans.
           </p>
           <div className="mt-10 grid grid-cols-3 gap-4">
-            {["5,000+\nCars Washed", "4.9★\nRating", "100%\nEco-Friendly"].map((stat) => {
+            {["1000+\nCars Washed", "4.9★\nRating", "100%\nEco-Friendly"].map((stat) => {
               const [val, label] = stat.split("\n");
               return (
                 <div key={label} className="rounded-xl p-4" style={{ background: "hsl(0 0% 100% / 0.07)", border: "1px solid hsl(0 0% 100% / 0.12)" }}>
