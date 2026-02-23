@@ -2,8 +2,8 @@ import { Star, Shield, Clock } from "lucide-react";
 import heroImg from "@/assets/hero-car.jpg";
 
 const stats = [
-  { value: "5,000+", label: "Cars Washed" },
-  { value: "4.9★", label: "Rating" },
+  { value: "1000+", label: "Cars Washed" },
+  { value: "4.2★", label: "Rating" },
   { value: "3 Plans", label: "Packages" },
   { value: "100%", label: "Eco-Friendly" },
 ];
